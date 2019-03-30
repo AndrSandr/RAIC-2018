@@ -1,0 +1,10 @@
+E:\RAIC2018\csharp-cgdk\bin\Release\netcoreapp2.1\win-x64\csharp-cgdk.deps.json
+E:\RAIC2018\csharp-cgdk\bin\Release\netcoreapp2.1\win-x64\csharp-cgdk.runtimeconfig.json
+E:\RAIC2018\csharp-cgdk\bin\Release\netcoreapp2.1\win-x64\csharp-cgdk.runtimeconfig.dev.json
+E:\RAIC2018\csharp-cgdk\bin\Release\netcoreapp2.1\win-x64\csharp-cgdk.dll
+E:\RAIC2018\csharp-cgdk\bin\Release\netcoreapp2.1\win-x64\csharp-cgdk.pdb
+E:\RAIC2018\csharp-cgdk\obj\Release\netcoreapp2.1\win-x64\csharp-cgdk.csproj.CoreCompileInputs.cache
+E:\RAIC2018\csharp-cgdk\obj\Release\netcoreapp2.1\win-x64\csharp-cgdk.AssemblyInfoInputs.cache
+E:\RAIC2018\csharp-cgdk\obj\Release\netcoreapp2.1\win-x64\csharp-cgdk.AssemblyInfo.cs
+E:\RAIC2018\csharp-cgdk\obj\Release\netcoreapp2.1\win-x64\csharp-cgdk.dll
+E:\RAIC2018\csharp-cgdk\obj\Release\netcoreapp2.1\win-x64\csharp-cgdk.pdb

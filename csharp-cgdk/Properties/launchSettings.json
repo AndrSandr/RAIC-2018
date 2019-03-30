@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "csharp-cgdk": {
+      "commandName": "Project"
+    }
+  }
+}
